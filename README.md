@@ -8,3 +8,6 @@
 
 ## Μάθημα 3
 [Πρόσθετα / Plugins](https://docs.google.com/document/d/1mDtVOaQEtzJVW2VZSvmjaTBQMAidYm1vjqj7Yru400I/edit?usp=sharing)
+
+## Μάθημα 4
+[Επιλογή θέματος / Templates](https://docs.google.com/document/d/1sb_H14wSoj4NtkU9X-qC3oSr8hb2BQ004K69jAvsOXY/edit?usp=sharing)
